@@ -5,6 +5,6 @@
 
 ### Advisor: ASSISTANT. PROFESSOR. DOCTOR. MURAT AYDOĞAN
 
-A screenshot form code
+A screenshot from code.
 
 ![Run Successfully](https://github.com/user-attachments/assets/a2d9c3b8-f77f-4f98-a448-cfd8ebb892d7)
